@@ -1,0 +1,1 @@
+<script id="vicodoWidget" src="https://widget.vicodo.com/vicodo-widget.min.js" data-widget-id="<?php esc_attr_e( $widget_id ); ?>" defer></script><vicodo-widget></vicodo-widget>

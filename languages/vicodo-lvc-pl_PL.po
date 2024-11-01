@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vicodo Live Video Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-05 13:54+0000\n"
+"PO-Revision-Date: 2022-05-16 13:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: vicodo-lvc\n"
+
+#: options.php:31 vicodo-live-video-chat.php:134 vicodo-live-video-chat.php:144
+msgid "All"
+msgstr "Wszystkie"
+
+#: options.php:32
+msgid "Desktop"
+msgstr "Komputer"
+
+#: options.php:72
+#, php-format
+msgid "Do you need help? Visit %ssupport page%s."
+msgstr "Potrzebujesz wsparcia? Odwiedź %scentrum pomocy%s."
+
+#: options.php:56
+msgid "Do you want to exclude some specific post/pages?"
+msgstr "Czy chcesz wykluczyć niektóre strony/posty?"
+
+#. Description of the plugin
+msgid "Enables Vicodo Live Video Chat widget."
+msgstr "Włącza Vicodo Live Video Chat widget."
+
+#: options.php:62
+msgid "Exclude Pages"
+msgstr "Wyklucz strony"
+
+#: options.php:58
+msgid "Exclude Posts"
+msgstr "Wyklucz posty"
+
+#: options.php:24
+#, php-format
+msgid "Get your widget ID %shere%s."
+msgstr "Zdobąć swój widget ID %stutaj%s."
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/vicodo/"
+msgstr "https://profiles.wordpress.org/vicodo/"
+
+#: options.php:42
+msgid "In specific pages or posts"
+msgstr "Na wybranych stronach lub w postach"
+
+#: options.php:41
+msgid "In the whole website (pages, posts and archives)"
+msgstr "Na całej stronie (podstrony, posty, archiwum)"
+
+#: options.php:39
+msgid "In which pages do you want to insert this code?"
+msgstr "Na których stronach chcesz umieścić ten kod?"
+
+#: options.php:33
+msgid "Mobile"
+msgstr "Urządzenia mobilne"
+
+#: options.php:48
+msgid "Pages"
+msgstr "Strony"
+
+#: options.php:44
+msgid "Posts"
+msgstr "Strony"
+
+#: options.php:69
+msgid "Save"
+msgstr "Zapisz"
+
+#: vicodo-live-video-chat.php:121
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: options.php:28
+msgid "Shown Only on Device"
+msgstr "Pokaż tylko na urządzeniach"
+
+#: options.php:34
+msgid "Tablet"
+msgstr "Tablet"
+
+#. Author of the plugin
+#: vicodo-live-video-chat.php:57
+msgid "Vicodo"
+msgstr "Vicodo"
+
+#. Name of the plugin
+#: vicodo-live-video-chat.php:56
+msgid "Vicodo Live Video Chat"
+msgstr "Vicodo Live Video Chat"
+
+#: options.php:15
+msgid "Vicodo Live Video Chat - Options"
+msgstr "Vicodo Live Video Chat - opcje"
+
+#: options.php:21
+msgid "Vicodo Widget ID"
+msgstr "Vicodo Widget ID"
+
+#: options.php:71
+#, php-format
+msgid "You can change the appearance settings %shere%s."
+msgstr "Możesz zmieć ustawienia wyglądu %stutaj%s."
